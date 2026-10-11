@@ -1,0 +1,9 @@
+# Google Colab (T4): torch уже предустановлен, НЕ переустанавливать.
+#   pip install -q -r requirements.txt
+transformers>=4.56.0
+peft>=0.15.0
+bitsandbytes>=0.45.0
+accelerate>=1.0.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+matplotlib>=3.8.0   # кривая обучения; в Colab предустановлен
