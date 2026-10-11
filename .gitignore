@@ -2,6 +2,7 @@ __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 outputs/*
-!outputs/ecql-lora/loss_curve.png
+!outputs/.gitkeep
 datasets/*
+!datasets/.gitkeep
 .venv/
